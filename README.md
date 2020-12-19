@@ -11,3 +11,4 @@ Prices had to be cleaned because of dollar values, converting to floating point 
 I have done preliminary exploratory analysis on coefficients and imputing some data.
 
 Some notes would be better if there can be examples of how I can use linear regression to do analysis on this airbnb data.
+
